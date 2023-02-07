@@ -1,5 +1,12 @@
 package com.anf2;
 
+import com.anf2.service.printer.ConsolePrinter;
+import com.anf2.service.printer.Formatter;
+import com.anf2.service.processor.TextProcessor;
+import com.anf2.service.processor.TextProcessorImpl;
+import com.anf2.service.processor.TextProcessorImplCache;
+import com.anf2.service.reader.TextFileReader;
+
 import java.util.List;
 import java.util.Map;
 

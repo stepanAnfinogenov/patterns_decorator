@@ -1,4 +1,4 @@
-package com.anf2;
+package com.anf2.service.reader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

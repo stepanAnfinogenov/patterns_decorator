@@ -1,4 +1,4 @@
-package com.anf2;
+package com.anf2.service.processor;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

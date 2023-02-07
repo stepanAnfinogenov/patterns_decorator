@@ -1,4 +1,4 @@
-package com.anf2;
+package com.anf2.service.printer;
 
 public class ConsolePrinter {
 	public void consolePrint(String request) {

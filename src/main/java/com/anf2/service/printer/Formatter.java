@@ -1,4 +1,4 @@
-package com.anf2;
+package com.anf2.service.printer;
 
 import java.util.Map;
 
